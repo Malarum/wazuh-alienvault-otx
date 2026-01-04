@@ -1,4 +1,4 @@
-#!/home/matthew/Documents/WAZUH-OTX/.venv/bin/python3
+#!/usr/bin/python3
 
 from OTXv2 import OTXv2, IndicatorTypes
 from datetime import datetime, timedelta
